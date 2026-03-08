@@ -7,4 +7,4 @@ Um sistema que gerencia e controla o fuxo de carga e descarga de vagas de estaci
 
 ### Empresa de Apoio
 
-[**DSIN**](https://www.dsin.com.br): "Facilidade, tecnologia e eficiência na gestão do trânsito."
+[**DSIN**](https://www.dsin.com.br): Empresa que visa Facilidade, tecnologia e eficiência na gestão do trânsito.
